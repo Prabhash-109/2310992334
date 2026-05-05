@@ -20,7 +20,6 @@ async function getToken() {
     token = res.data.access_token;
 }
 
-// 🔹 MAIN LOG FUNCTION
 async function Log(stack, level, pkg, message) {
     try {
         if (!token) {
