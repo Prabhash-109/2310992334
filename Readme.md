@@ -40,19 +40,22 @@ project/
 
 ## 📸 Screenshots
 
-### 🔹 Register API Response
+###  Register API Response
 
 ![Register Screenshot](./screenshots/register.png)
 
-### 🔹 Auth Token Response
+###  Auth Token Response
 
 ![Get Token Screenshot](./screenshots/getToken.png)
 
-### 🔹 Log API Success
+###  Log API Success
 
 ![Logs Screenshot](./screenshots/logs1.png)
 
-![Server Screenshot](./screenshots/logs2.png)
+![Logs Screenshot](./screenshots/logs2.png)
+
+### Server 
+![Server Screenshot](./screenshots/server.png)
 
 
 ## 🚀 Features
