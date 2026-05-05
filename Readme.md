@@ -75,7 +75,7 @@ This project demonstrates how to build and integrate a **custom logging system**
 
 ## 👨‍💻 Author
 
-* Your Name
-* Your GitHub Profile
+* Prabhash Jha
+* https://github.com/Prabhash-109
 
 ---
